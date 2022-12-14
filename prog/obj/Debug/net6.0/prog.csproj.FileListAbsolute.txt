@@ -1,0 +1,15 @@
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\bin\Debug\net6.0\prog.exe
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\bin\Debug\net6.0\prog.deps.json
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\bin\Debug\net6.0\prog.runtimeconfig.json
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\bin\Debug\net6.0\prog.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\bin\Debug\net6.0\prog.pdb
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.AssemblyInfo.cs
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\refint\prog.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.pdb
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\prog.genruntimeconfig.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#finalHW\prog\obj\Debug\net6.0\ref\prog.dll
